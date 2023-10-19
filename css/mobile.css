@@ -1,0 +1,119 @@
+@media (max-width: 768px) {
+   
+    header{
+        justify-content: center;
+    }
+
+    header img{
+        margin: 0 auto;
+    }
+
+
+    .container-banner{
+        height: auto;
+        flex-direction: column;
+    }
+
+    .lista{
+        margin-top: 25px;
+        width: 350px;
+        height: auto;
+    }
+
+    .lista ul li{
+        font-size: 11px;
+    }
+
+    form{
+        margin-top: 25px; margin-bottom: 25px;
+        width: 350px; height: auto;
+    }
+
+    form h2{
+        font-size: 16px;
+    }
+
+    .input-container{
+        width: 300px;
+    }
+
+    .input-container span{
+        font-size: 13px; font-weight: normal; 
+    }
+
+    .input-container input[type=text]{
+        width: 95%; height: 30px;
+    }
+
+    button{
+        width: 150px; height: 30px;
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .chamada{
+        height: 300px;
+    }
+
+    .chamada h2{
+        font-size: 18px;
+    }
+
+    .chamada p{
+        width: 320px;
+        font-size: 12px;
+    }
+
+    .arrow{
+        width: 40px; height: 40px;
+        bottom: 20px;
+    }
+
+    .container-section{
+        width: 100%; height: auto;
+    }
+
+    .container-section h2{
+        margin-top: 25px;
+        font-size: 18px;
+        width: 250px;
+        text-align: center;
+    }
+
+    .container-vantagens{
+        height: auto;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .container-single{
+        margin-top: 50px;
+        height: 200px;
+    }
+
+    .container-single h3{
+        font-size: 16px;
+    }
+
+    .container-single p{
+        font-size: 12px;
+    }
+
+    footer{
+        height: 150px;
+    }
+
+    footer p{
+        font-size: 13px;
+        width: 300px;
+        text-align: center;
+    }
+
+
+
+
+
+
+
+  }
