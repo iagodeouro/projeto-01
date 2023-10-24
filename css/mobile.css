@@ -1,4 +1,9 @@
 @media (max-width: 768px) {
+
+        
+/*
+	Estilização do header
+*/
    
     header{
         justify-content: center;
@@ -7,6 +12,10 @@
     header img{
         margin: 0 auto;
     }
+
+/*
+	Estilização do conteúdo primário - lista e formulário
+*/
 
 
     .container-banner{
@@ -51,6 +60,11 @@
         font-size: 13px;
     }
 
+/*
+	Estilização do conteúdo de chamada
+*/
+
+
     .chamada{
         height: 300px;
     }
@@ -64,10 +78,18 @@
         font-size: 12px;
     }
 
+/*
+	botão divisor
+*/
+
     .arrow{
         width: 40px; height: 40px;
         bottom: 20px;
     }
+
+/*
+	Estilização do conteúdo principal da página
+*/
 
     .container-section{
         width: 100%; height: auto;
@@ -99,6 +121,10 @@
     .container-single p{
         font-size: 12px;
     }
+
+/*
+	Estilização do rodapé
+*/
 
     footer{
         height: 150px;
